@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background:#00b894;
+
+}
+
+.box{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #636e72;
+    text-align: center;
+
+}
+
+.box h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.box input[type = "password"], .box input[type = "text"]{
+    border: 0px;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+}
+
+.box input[type = "text"]:focus, .box input[type = "password"]:focus{
+    width: 270px;
+    border-color: #2ecc71;
+}
+
+.btn{
+    border: 0px;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #2ecc71;
+    padding: 14px 40px;
+    width: 150px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: #2ecc71;
+}
+
+.btn2{
+    border: 0px;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #e17055;
+    padding: 14px 40px;
+    width: 150px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+.btn2:hover{
+    background: #d63031;
+}
+
+.textarea{
+    /* font-family:"Times New Roman"; */
+    background: #fdcb6e;
+    color:black;
+    resize: none;
+    border: #34495e;
+    transition: 0.25s;
+}
+.textarea:focus{
+    background: #ffeaa7;
+}
+@media screen and (max-width: 1000px){
+    .btn:focus{
+        background: #2ecc71;
+    }
+    .btn2:focus{
+        background: #d63031;
+    }
+    .textarea{
+        /* display: block;
+        background: url(https://lh3.googleusercontent.com/pw/ACtC-3eSsX9fq43f8-jH4sq2X0WI8xTBSdlb3epJmHfSgZGhJ9MiOCkE4SCC_JFWRzOJNGpyPL10Ci3c33CS6dYkS58gWx6xQfVZ-jZvtjTsELvz27Qq8-uIprI81T43v9iwnmhI5pld4kijMffxSIAc7OqD=w233-h938-no?authuser=0);  */
+        width: 85%;
+        /* height: 40%; */
+        margin-top: 15px;
+    }
+
+    .textarea:focus{
+        width: 95%;
+    }
+}
+
+.text-center{
+    text-align: center;
+}

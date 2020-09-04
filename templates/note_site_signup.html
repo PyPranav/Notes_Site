@@ -1,0 +1,21 @@
+{% extends 'note_site_home.html' %}
+{% load static %}
+
+{% block form %}
+<form action="new_dashboard" method='post' enctype="multipart/form-data">
+    {% csrf_token %}
+    <div class='box'>
+        
+        <h1>sign up</h1>
+        <input type="text" placeholder="Username" name='username' required>
+        <input type="password" placeholder="Password" name='password' required>
+        <input type="password" placeholder="Confirm Password" name='confirm-password' required>
+        {% if is_signup_failed %}
+        <p style="color:#f79862;">Sign Up Failed Please Try Again!!</p>
+        {% endif %}
+        <input class='btn' type="submit" value='Sign Up'></input>
+        <!-- <button class='btn' onclick="window.location.href='signup'">Sign Up</button> -->
+        
+    </div>
+</form>
+{% endblock %}

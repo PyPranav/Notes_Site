@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes</title>
+    <link rel="stylesheet" href="{% static 'notes_site.css' %}?{% now "U" %}"" />
+</head>
+<body class='text-center'>
+    <h1 style="color: aliceblue;">Notes</h1>
+    <form action="save" method='post' enctype="multipart/form-data">
+        {% csrf_token %}
+        {% for ind, note in notes %}
+            <textarea class='textarea' rows="10" name="TA{{ind}}" cols="50">{{note.note}}</textarea>
+        {% endfor %}
+            
+            <input class='btn2' type="submit" value='Save'></input>
+            <textarea name="username" id="" cols="10" rows="10" style="visibility: hidden;">{{username}}</textarea>
+    </form>
+</body>
+</html>
