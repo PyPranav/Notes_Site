@@ -8,7 +8,6 @@ https://pypranav.pythonanywhere.com/notes/
 Use git clone to install it on local machine.
 ```bash
 git clone https://github.com/PyPranav/Notes_Site
-pip install -r requirement.txt
 ```
   
 ## Images
