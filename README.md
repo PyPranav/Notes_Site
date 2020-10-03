@@ -16,6 +16,6 @@ git clone https://github.com/PyPranav/Notes_Site
 ![](https://lh3.googleusercontent.com/pw/ACtC-3csrOxgiTkdg9PioZKqiDgvX7pZxSDLZKGeGJXSCsqeB-LYO-MBWCuz7yPwjiQfV9rAGwR1O600PvMBymWCiRz6JVe4pLBkWGAUSI6Val8PL46jUXYZpFQ7_ec_vGSQuA43Z7yhpTEONmtR91ZhZ4GU=w2000-h2000-no?authuser=0)
   
 ### Desktop
-![](https://lh3.googleusercontent.com/pw/ACtC-3dSnQr1OdW8OO3utF9tfY8MGH3EJxivD84u1yVfMKLtvfOgdwAWUKXMXOGoptPykwQ3nrzeGkduxoz7frpPjvVX2tiylrU2sgCUNlBY4SYvzELevuWiRnJb4JVfIcvhI-S5lMbqqLYm6Zt6EbzqKFdX=w1920-h937-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/ACtC-3eah2e7Mczv4abcOXRpea1_xrSUbIdtl8hj6KaBnc1XeKkoQ0lPhG65K8VLdpeHVyJnCiopN_cPnm-plHf9oQ6SMxtOlRltma7weo1IKk4HH4Yq6r4qYnVdWzPEK0nlm5u7v0LdlT4QKKUsK5LrGOT5=w1920-h937-no?authuser=0)
   
-![](https://lh3.googleusercontent.com/pw/ACtC-3ezkUfdZuKcEUt-LIULZraoSYsRep8HL2L5Zadk6c2NNWSNEE_-fE9j4tbTttog4Dkl2BcoXSQujznBxeTW3Ev3Bwtd_Rg5xhrQlPA-wbsruR8j-g6ZICkc_iRtt6h7BnmHcri3dDSB20rUCPwgucjT=w5000-h5000-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/ACtC-3ewy1t4iEaqBAj059ngLPiStTf2ViNFAK-F2x7Sj13-2ayZOnmK6e68OFIwuo6_4i88VPs4D3lCg1_-7M9sq7vARz9-C6lg-o46dWkfp6H1DCxESSLrFE4t3dEsmiUfEGObw1h1UMtj_FwP6bi0Qalm=w1920-h937-no?authuser=0)
