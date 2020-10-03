@@ -13,7 +13,7 @@ git clone https://github.com/PyPranav/Notes_Site
 ## Images
   
 ### Mobile
-![](https://lh3.googleusercontent.com/pw/ACtC-3csrOxgiTkdg9PioZKqiDgvX7pZxSDLZKGeGJXSCsqeB-LYO-MBWCuz7yPwjiQfV9rAGwR1O600PvMBymWCiRz6JVe4pLBkWGAUSI6Val8PL46jUXYZpFQ7_ec_vGSQuA43Z7yhpTEONmtR91ZhZ4GU=w2000-h2000-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/ACtC-3fGkW76nBvwzigsIgwhkryEIpUq_LFLJC6_7CU62VzvcP3KWmM50zHusp3yygTSbPRzsndcgDM4WjNvgy_7BI5FVEg6VJ0jkNlVn-r2lOC8XLm93cpv5iwf8eEA0K1jtRjGM2pXgIICLVXNoxJFeNjI=w2000-h2000-no?authuser=0)
   
 ### Desktop
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eah2e7Mczv4abcOXRpea1_xrSUbIdtl8hj6KaBnc1XeKkoQ0lPhG65K8VLdpeHVyJnCiopN_cPnm-plHf9oQ6SMxtOlRltma7weo1IKk4HH4Yq6r4qYnVdWzPEK0nlm5u7v0LdlT4QKKUsK5LrGOT5=w1920-h937-no?authuser=0)
